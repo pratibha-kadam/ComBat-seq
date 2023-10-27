@@ -5,7 +5,7 @@ R Script for Batch effect adjustment based on negative binomial regression for R
 
 **Example data**
 
-Input File: less_than_16_vs_any_bmi_2.csv
-Output File: combatseq-normalised.tsv
+**Input File: **less_than_16_vs_any_bmi_2.csv
+**Output File:** combatseq-normalised.tsv
 
 Change the Directory and file names accordingly.
